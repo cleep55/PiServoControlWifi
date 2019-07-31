@@ -65,4 +65,4 @@ def clockwise():
                #tcpSerSock.close();
 
 if __name__ == '__main__':
-        pi_server.run(debug=True, host='0.0.0.0', port=int("21478"))
+        pi_server.run(debug=True, host='0.0.0.0', port=int("8080"))
